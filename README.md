@@ -36,6 +36,7 @@ The server should now be running on `http://localhost:5000`
 The API provides two main endpoints:
 
 `/api/blog-stats` - Retrieves blog statistics.
+
 `/api/blog-search` - Performs a search for blogs based on a query parameter.
 
 You can make GET requests to these endpoints using tools like Postman or a web browser.
