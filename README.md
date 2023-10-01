@@ -70,7 +70,7 @@ Description: Performs a search for blogs based on a query parameter (case-insens
 
 Example Request:
 
-GET `http://localhost:3000/api/blog-search?query=privacy`
+GET `http://localhost:5000/api/blog-search?query=privacy`
 
 Example Response:
 
